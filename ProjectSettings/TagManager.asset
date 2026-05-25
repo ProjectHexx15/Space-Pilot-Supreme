@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - stars
+  - GlonkTrooper
+  - GlonkAdvance
+  - PlayerLazer
+  - EnemyLazer
+  - Boss
+  - Shield
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Glonks
+  - PlayerLazer
+  - EnemyLazer
+  - UI
+  - Effects
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: stars
+    uniqueID: 2720284603
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
